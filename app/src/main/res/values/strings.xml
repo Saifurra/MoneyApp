@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MoneyApp</string>
+    <string name="sale_ends_today">Sale ends today!</string>
 </resources>
